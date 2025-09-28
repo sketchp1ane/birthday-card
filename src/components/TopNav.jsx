@@ -13,7 +13,7 @@ export function TopNav({ onResetGate }) {
           className="h-9 w-9 rounded-xl border border-black/10 bg-white/80 shadow-sm transition hover:-translate-y-0.5 hover:bg-white overflow-hidden"
         >
           <img
-            src="../public/avatar.jpg"
+            src="/avatar.jpg"
             alt="Avatar"
             className="h-full w-full object-cover rounded-xl"
           />
